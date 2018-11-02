@@ -6,7 +6,7 @@ fi
 
 while true
 do
-    echo "Hello from $1! Your connections is OK" | nc -lvvv 9000
+    echo "Hello from $1.csaw.io! Your connections is OK" | nc -lvvv 9000
 done
 
 
